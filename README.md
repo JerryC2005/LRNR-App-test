@@ -98,6 +98,7 @@ The **LRNR App** is a full-stack web application that provides a guided quiz-gen
 3. Cierra Gaddy
 4. Andrea Merlos
 5. Darrell Cooper
+6. Jerry Castro Luz
 
 readme inspo: Carmani Harris 
 
